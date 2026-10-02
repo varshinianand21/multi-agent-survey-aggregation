@@ -1,0 +1,13 @@
+data:
+  documents: data/documents.jsonl
+  test: data/dev_probe.json
+  embedding_store: data/id_to_embedding.npz
+index:
+  dir: index_data
+output:
+  submission: outputs/submission.csv
+retrieval:
+  mode: bm25
+  alpha: 1.0
+  top_k: 100
+seed: 42

@@ -1,0 +1,5 @@
+{
+  "variant": "semantic_only",
+  "config": "configs/variants/semantic.yaml",
+  "status": "success"
+}

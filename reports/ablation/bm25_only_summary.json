@@ -1,0 +1,5 @@
+{
+  "variant": "bm25_only",
+  "config": "configs/variants/bm25.yaml",
+  "status": "success"
+}

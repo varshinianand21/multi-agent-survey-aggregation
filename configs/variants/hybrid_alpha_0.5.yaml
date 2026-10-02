@@ -1,0 +1,6 @@
+variant: hybrid_alpha_0.5
+index_dir: index_data
+embedding_path: data/id_to_embedding.npz
+retrieval_mode: hybrid
+output_dir: outputs
+alpha: 0.5

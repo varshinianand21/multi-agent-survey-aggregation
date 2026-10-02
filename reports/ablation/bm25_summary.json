@@ -1,0 +1,182 @@
+{
+  "Middle East // When it comes to their values, how much do you think immigrants from each of the following regions have in common with most Americans?": {
+    "distribution": {
+      "Agree": 0.4747034708829281,
+      "Disagree": 0.3273444727912813,
+      "Neutral": 0.1979520563257906
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_2",
+      "DOC_0"
+    ]
+  },
+  "Crime // What type of impact do you think immigrants living in the country illegally are having on each of the following areas?": {
+    "distribution": {
+      "Agree": 0.5223724139242001,
+      "Disagree": 0.32815040160718545,
+      "Neutral": 0.1494771844686146
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_2",
+      "DOC_4"
+    ]
+  },
+  "Do you listen to the radio?": {
+    "distribution": {
+      "Agree": 0.6583483469519111,
+      "Disagree": 0.3360145176548846,
+      "Neutral": 0.005637135393204301
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_4",
+      "DOC_3"
+    ]
+  },
+  "Have you ever experienced or believed in any of the following?": {
+    "distribution": {
+      "Agree": 0.8781356540098635,
+      "Disagree": 0.06358195515752806,
+      "Neutral": 0.05828239083260848
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_3",
+      "DOC_2"
+    ]
+  },
+  "What benefits do you think video games provide?": {
+    "distribution": {
+      "Agree": 0.681357827645039,
+      "Disagree": 0.18115809888080128,
+      "Neutral": 0.1374840734741597
+    },
+    "supports": [
+      "DOC_3",
+      "DOC_2",
+      "DOC_0"
+    ]
+  },
+  "Social and cultural values // What type of impact do you think immigrants living in the country illegally are having on each of the following areas?": {
+    "distribution": {
+      "Agree": 0.426192860877493,
+      "Disagree": 0.4256443470486841,
+      "Neutral": 0.14816279207382302
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_2",
+      "DOC_0"
+    ]
+  },
+  "People who come from countries not well represented in the U.S. // How much priority should be given to each of the following?": {
+    "distribution": {
+      "Agree": 0.5993134514735264,
+      "Disagree": 0.2309480975118038,
+      "Neutral": 0.1697384510146698
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_2",
+      "DOC_0"
+    ]
+  },
+  "Which comes closer to your view - even if neither is exactly right?": {
+    "distribution": {
+      "Agree": 0.4047481823241464,
+      "Disagree": 0.3172533737642107,
+      "Neutral": 0.2779984439116429
+    },
+    "supports": [
+      "DOC_2",
+      "DOC_4",
+      "DOC_1"
+    ]
+  },
+  "Crime // What type of impact do you think immigrants living in the country legally are having on each of the following areas?": {
+    "distribution": {
+      "Agree": 0.5163675014729385,
+      "Disagree": 0.3322618292631739,
+      "Neutral": 0.1513706692638876
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_2",
+      "DOC_0"
+    ]
+  },
+  "Africa // When it comes to their values, how much do you think immigrants from each of the following regions have in common with most Americans?": {
+    "distribution": {
+      "Agree": 0.43901396992102204,
+      "Disagree": 0.3346754660779682,
+      "Neutral": 0.2263105640010097
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_2",
+      "DOC_0"
+    ]
+  },
+  "People who have close family members already living in the U.S. // How much priority should be given to each of the following?": {
+    "distribution": {
+      "Agree": 0.6917592615359089,
+      "Disagree": 0.17794459259866732,
+      "Neutral": 0.1302961458654237
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_2",
+      "DOC_4"
+    ]
+  },
+  "How much have you seen, read, or heard about illegal immigration in the news lately?": {
+    "distribution": {
+      "Agree": 0.485001893163518,
+      "Disagree": 0.3114785288994566,
+      "Neutral": 0.20351957793702538
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_2",
+      "DOC_4"
+    ]
+  },
+  "How do you prefer your sandwiches to be served?": {
+    "distribution": {
+      "Agree": 0.5100443187914706,
+      "Disagree": 0.4426251906839125,
+      "Neutral": 0.04733049052461695
+    },
+    "supports": [
+      "DOC_2",
+      "DOC_1",
+      "DOC_3"
+    ]
+  },
+  "Is there at least one working telephone inside your home that is not a cell phone?": {
+    "distribution": {
+      "Agree": 0.8607334649354946,
+      "Disagree": 0.08273673979824801,
+      "Neutral": 0.05652979526625744
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_4",
+      "DOC_3"
+    ]
+  },
+  "How concerned are you about how Companies use the data they collect about you?": {
+    "distribution": {
+      "Agree": 0.6712838735340398,
+      "Disagree": 0.24283397261170037,
+      "Neutral": 0.0858821538542597
+    },
+    "supports": [
+      "DOC_1",
+      "DOC_4",
+      "DOC_0"
+    ]
+  }
+}

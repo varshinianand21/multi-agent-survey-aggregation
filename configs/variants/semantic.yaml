@@ -1,0 +1,4 @@
+variant: semantic_only
+index_dir: index_data
+retrieval_mode: semantic
+output_dir: outputs

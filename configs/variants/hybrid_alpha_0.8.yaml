@@ -1,0 +1,5 @@
+variant: hybrid_alpha_0.8
+index_dir: index_data
+retrieval_mode: hybrid
+output_dir: outputs
+alpha: 0.8
