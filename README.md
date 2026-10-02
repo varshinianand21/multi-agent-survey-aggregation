@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# MAS for Automatic Survey (Assignment 2)
+# MAS for Automatic Survey
 
 **Author:** Varshini Anand  
 **Student ID:** s4051617  
